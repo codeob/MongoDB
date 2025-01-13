@@ -1,0 +1,10 @@
+{
+     "name":"Phil",
+     "location"":"USA",
+    "branch":"New York USA",
+    "phone":"2572577899",
+    "address":"p o box 1741",
+    "accountNumber":"2333989077899"
+}
+
+password = "VimrbIrqrX7NBksa"
